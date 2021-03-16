@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @infosecLab6104
 - 👀 I’m interested in C++, Python, CTF
 - 🌱 I’m currently learning Web
-- 💞️ I’m looking to collaborate on HUAWEI
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
